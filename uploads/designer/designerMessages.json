@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "sender": "Designer",
+    "userId": 2,
+    "message": "ijd",
+    "timestamp": "2025-07-09T06:01:24.132Z",
+    "attachments": []
+  },
+  {
+    "id": 2,
+    "sender": "Designer",
+    "userId": 2,
+    "message": "hi",
+    "timestamp": "2025-07-09T06:01:32.881Z",
+    "attachments": []
+  }
+]
