@@ -1,0 +1,234 @@
+[
+  {
+    "id": "1",
+    "name": "General",
+    "type": "channel",
+    "lastMessage": "Hello!",
+    "unread": 0,
+    "locked": false,
+    "members": []
+  },
+  {
+    "id": "2",
+    "name": "Support",
+    "type": "dm",
+    "lastMessage": "Hi!",
+    "unread": 1,
+    "locked": false,
+    "members": []
+  },
+  {
+    "id": "3aef6022-d714-4d9d-bede-d3f7c3b9acae",
+    "name": "sssssssssss",
+    "type": "channel",
+    "lastMessage": "",
+    "unread": 0,
+    "locked": true,
+    "members": [
+      "21",
+      "22",
+      "2"
+    ]
+  },
+  {
+    "id": "6106514f-f4f3-4c56-a1e3-ad7c2df6c263",
+    "name": "qqqqqqqqqqqqq",
+    "type": "channel",
+    "lastMessage": "",
+    "unread": 0,
+    "locked": false,
+    "members": [
+      "21",
+      "22",
+      "2"
+    ]
+  },
+  {
+    "id": "d1e8546f-b15e-4ee2-a45c-f514b3af7d8e",
+    "name": "ccccccccccc",
+    "type": "channel",
+    "lastMessage": "eee",
+    "unread": 1,
+    "locked": false,
+    "members": [
+      "2",
+      "23",
+      "24"
+    ]
+  },
+  {
+    "id": "dm-2-21",
+    "name": "Santhosh",
+    "type": "dm",
+    "lastMessage": "",
+    "unread": 0,
+    "locked": false,
+    "members": [
+      2,
+      21
+    ]
+  },
+  {
+    "id": "dm-2-22",
+    "name": "Vikashini B",
+    "type": "dm",
+    "lastMessage": "",
+    "unread": 0,
+    "locked": false,
+    "members": [
+      2,
+      22
+    ]
+  },
+  {
+    "id": "dm-2-23",
+    "name": "ragu",
+    "type": "dm",
+    "lastMessage": "",
+    "unread": 0,
+    "locked": false,
+    "members": [
+      2,
+      23
+    ]
+  },
+  {
+    "id": "dm-2-24",
+    "name": "Ganesh",
+    "type": "dm",
+    "lastMessage": "",
+    "unread": 0,
+    "locked": false,
+    "members": [
+      2,
+      24
+    ]
+  },
+  {
+    "id": "fd8a9aea-c73f-4229-b276-222e0751e6e9",
+    "name": "mmmmmmmmmmm",
+    "type": "channel",
+    "lastMessage": "",
+    "unread": 0,
+    "locked": false,
+    "members": [
+      "21",
+      "2"
+    ]
+  },
+  {
+    "id": "0d5a8120-086f-4919-bbed-7f3abfbb0bc5",
+    "name": "pppppp",
+    "type": "channel",
+    "lastMessage": "qqqq",
+    "unread": 1,
+    "locked": false,
+    "members": [
+      "21",
+      "22",
+      "2"
+    ]
+  },
+  {
+    "id": "44c3a4ca-9cc3-449e-8ade-40ad085f1913",
+    "name": "fcfcfc",
+    "type": "channel",
+    "lastMessage": "qqqqq",
+    "unread": 1,
+    "locked": false,
+    "members": [
+      "21",
+      "22",
+      "2"
+    ]
+  },
+  {
+    "id": "560c4417-44fa-4d7a-9eef-4b70d694549b",
+    "name": "cvvv",
+    "type": "channel",
+    "lastMessage": "",
+    "unread": 0,
+    "locked": false,
+    "members": [
+      "21",
+      "2"
+    ]
+  },
+  {
+    "id": "6da198f9-f937-4e00-a62e-1c1e263f496e",
+    "name": "xcxc",
+    "type": "channel",
+    "lastMessage": "",
+    "unread": 0,
+    "locked": false,
+    "members": [
+      "21",
+      "22",
+      "2"
+    ]
+  },
+  {
+    "id": "d15b0e40-7d29-4de5-a7fa-94ba1a607b01",
+    "name": "xcvb",
+    "type": "channel",
+    "lastMessage": "are you okay?",
+    "unread": 1,
+    "locked": false,
+    "members": [
+      "2",
+      "23",
+      2
+    ]
+  },
+  {
+    "id": "fbf0551b-0407-40e2-afb7-0218b9e4d84d",
+    "name": "xse",
+    "type": "channel",
+    "lastMessage": "ssss",
+    "unread": 1,
+    "locked": false,
+    "members": [
+      "21",
+      "22",
+      "2",
+      "23",
+      2
+    ]
+  },
+  {
+    "id": "dm-21-24",
+    "name": "Ganesh",
+    "type": "dm",
+    "lastMessage": "",
+    "unread": 0,
+    "locked": false,
+    "members": [
+      21,
+      24
+    ]
+  },
+  {
+    "id": "dm-21-23",
+    "name": "ragu",
+    "type": "dm",
+    "lastMessage": "",
+    "unread": 0,
+    "locked": false,
+    "members": [
+      21,
+      23
+    ]
+  },
+  {
+    "id": "dm-21-22",
+    "name": "Vikashini B",
+    "type": "dm",
+    "lastMessage": "",
+    "unread": 0,
+    "locked": false,
+    "members": [
+      21,
+      22
+    ]
+  }
+]
